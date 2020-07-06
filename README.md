@@ -5,7 +5,7 @@ The mounts are made to hold the rail on top or bottom only, so that an led strip
 It is also made to be maintained, as the entire thing can be removed from the wall without removing the mounts.
 
 You can run an led strip on any of 3 sides ( which ever sided you are not using to mount ), 
-I recommend using captive slide in nuts for the mounts, and not the twist insert ones. 
-I think I used steel washers in side the mount holes to distribute the force when screwing them in.
+I recommend using captive slide in nuts for slot mounts, and not the twist insert ones. 
+I think I used steel washers inside the wall mount holes to distribute the force when screwing them in.
 
-I will try to add more models and details on hardware when I have time. 
+This is a work in progress, and was made for my personal use, and have low iterations.
