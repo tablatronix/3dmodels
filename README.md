@@ -1,3 +1,5 @@
+![Figure1](https://github.com/tablatronix/3dmodels/raw/master/tslot/images/Screen%20Shot%202020-07-05%20at%202.00.12%20PM.png
+
 Tslot bench organizer system I designed for my small work bench, It is high density, and uses 2020 aluminum t-slot extrusions
 it suspends the rail from the wall and allows mounting parts on all 4 sides. 
 
